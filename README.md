@@ -23,4 +23,4 @@ The series solutions provide **semi-analytical benchmarks** for the elastica pro
 
 If you use these notebooks, please cite:
 
-> Mishra, V. D. & Prasath, S. G. (2025). *Morphologies of a sagging elastica with intrinsic sensing and actuation*. Department of Applied Mechanics & Biomedical Engineering, IIT Madras.
+> Mishra, V. D. & Prasath, S. G. (2025). *Morphologies of a sagging elastica with intrinsic sensing and actuation*. arXiv:2509.17572
