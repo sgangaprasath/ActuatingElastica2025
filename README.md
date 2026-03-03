@@ -15,7 +15,9 @@ The series solutions provide **semi-analytical benchmarks** for the elastica pro
   Mathematica notebook for the **nonlocal sensing (Gaussian kernel) with local actuation case**.  
   - Expands the integro-differential equation in the sine basis.  
   - Constructs a linear system for coefficients `{a_n}` that is solved numerically.  
-  - Demonstrates how kernel width `W` and actuation gain `A` modify the elastica shape.  
+  - Demonstrates how kernel width `W` and actuation gain `A` modify the elastica shape.
+- `SI Videos`
+  Videos showing the shape of the elastica under various configurations as described in the article.
 
 ---
 
